@@ -238,3 +238,4 @@ Join our [Discord Server](https://discord.gg/bJq6vjRRKv) for discussions.
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=nari-labs/dia&type=Date" />
  </picture>
 </a>
+# LOCAL_TTS
